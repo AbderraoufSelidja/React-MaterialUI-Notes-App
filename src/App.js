@@ -50,6 +50,27 @@ function App() {
       category: "money",
       id: 2,
     },
+    {
+      title: "Project Deadline",
+      details:
+        "Submit the final report for the marketing project by Friday.",
+      category: "work",
+      id: 2,
+    },
+    {
+      title: "Team Building Activity  ",
+      details:
+        "Organize a team-building activity for Friday afternoon. Research potential venues and activities, such as an escape room or a cooking class. Prepare a budget and send out a survey to team members for their preferences. Ensure to finalize the booking by Wednesday.",
+      category: "todo",
+      id: 2,
+    },
+    {
+      title: "Team Building Activity",
+      details:
+        "Start saving for the upcoming family vacation planned for next summer. Set a goal of $2000 and create a savings plan. Consider cutting back on dining out and entertainment expenses to reach this target. Open a separate savings account for this purpose to track progress easily.",
+      category: "money",
+      id: 2,
+    },
   ]);
   const handleDelete = (id) => {
     const newNotes = notes.filter((note) => note.id !== id);
@@ -71,7 +92,7 @@ function App() {
         <div className="App">
           <Router>
             <Routes>
-              <Route path="/" element={<Layout />}>
+              <Route path="/React-MaterialUI-Notes-App/" element={<Layout />}>
                 <Route index element={<Notes />} />
                 <Route path="create" element={<Create />} />
                 <Route path="*" element={<div>Error</div>} />

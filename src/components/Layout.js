@@ -41,12 +41,12 @@ export default function Layout() {
     {
       text: "My Notes",
       icon: <SubjectOutlined color="secondary" />,
-      path: "/",
+      path: "/React-MaterialUI-Notes-App/",
     },
     {
       text: "Create Note",
       icon: <AddCircleOutlineOutlined color="secondary" />,
-      path: "/create",
+      path: "/React-MaterialUI-Notes-App/create",
     },
   ];
   const theme = useTheme();
