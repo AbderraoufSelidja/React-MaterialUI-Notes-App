@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/React-MaterialUI-Notes-App/static/css/main.b368b54d.css",
-    "main.js": "/React-MaterialUI-Notes-App/static/js/main.7ff21587.js",
+    "main.js": "/React-MaterialUI-Notes-App/static/js/main.793195fe.js",
+    "static/media/mario-av.png": "/React-MaterialUI-Notes-App/static/media/mario-av.f8f65b36be00898a3b20.png",
     "index.html": "/React-MaterialUI-Notes-App/index.html",
     "main.b368b54d.css.map": "/React-MaterialUI-Notes-App/static/css/main.b368b54d.css.map",
-    "main.7ff21587.js.map": "/React-MaterialUI-Notes-App/static/js/main.7ff21587.js.map"
+    "main.793195fe.js.map": "/React-MaterialUI-Notes-App/static/js/main.793195fe.js.map"
   },
   "entrypoints": [
     "static/css/main.b368b54d.css",
-    "static/js/main.7ff21587.js"
+    "static/js/main.793195fe.js"
   ]
 }
