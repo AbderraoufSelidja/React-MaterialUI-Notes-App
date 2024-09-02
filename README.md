@@ -16,6 +16,7 @@ My Note is a simple and intuitive note-taking application built with React and M
 You can see a live demo of the application [here](link_to_live_demo).
 
 
+![Demo Screenshot](./public/Screenshot%202024-09-02%20234104.png)
 ![Demo Screenshot](./public/Screenshot%202024-09-02%20233332.png)
 
 ## Features
