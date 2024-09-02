@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-MaterialUI-Notes-App/static/css/main.b368b54d.css",
+    "main.js": "/React-MaterialUI-Notes-App/static/js/main.7ff21587.js",
+    "index.html": "/React-MaterialUI-Notes-App/index.html",
+    "main.b368b54d.css.map": "/React-MaterialUI-Notes-App/static/css/main.b368b54d.css.map",
+    "main.7ff21587.js.map": "/React-MaterialUI-Notes-App/static/js/main.7ff21587.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b368b54d.css",
+    "static/js/main.7ff21587.js"
+  ]
+}
