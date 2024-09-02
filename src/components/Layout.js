@@ -29,6 +29,7 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import { Avatar } from "@mui/material";
 import Masonry from "react-masonry-css";
+import marioAv from '../mario-av.png';
 const drawerWidth = 240;
 // ===================================
 // const drawerWidth = 240;
@@ -128,7 +129,7 @@ export default function Layout() {
             </Typography>
             <Typography>Mario</Typography>
             <Avatar
-              src="/mario-av.png"
+              src={marioAv}
               style={{ marginLeft: theme.spacing(2) }}
             ></Avatar>
           </Toolbar>

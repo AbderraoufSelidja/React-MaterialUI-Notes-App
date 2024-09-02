@@ -74,6 +74,7 @@ function App() {
               <Route path="/" element={<Layout />}>
                 <Route index element={<Notes />} />
                 <Route path="create" element={<Create />} />
+                <Route path="*" element={<div>Error</div>} />
               </Route>
             </Routes>
           </Router>
