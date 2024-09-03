@@ -59,7 +59,7 @@ export default function Create() {
     setNotes(nouvelleNote);
     // Add Tasks To Local Storage
     localStorage.setItem("notes", JSON.stringify(nouvelleNote));
-    navigate("/");
+    navigate("/React-MaterialUI-Notes-App/");
   }
   return (
     <Container>
