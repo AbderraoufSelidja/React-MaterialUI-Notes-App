@@ -13,7 +13,7 @@ My Note is a simple and intuitive note-taking application built with React and M
 
 ## Demo
 
-You can see a live demo of the application [here]([[https://abderraoufselidja.github.io/React-MaterialUI-Notes-App/].
+You can see a live demo of the application [here](https://abderraoufselidja.github.io/React-MaterialUI-Notes-App/).
 
 
 ![Demo Screenshot](./public/Screenshot%202024-09-02%20234104.png)
